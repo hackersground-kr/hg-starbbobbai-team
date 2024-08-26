@@ -82,6 +82,19 @@ https://www.jetbrains.com/ko-kr/idea/
 18. 위에서 부터 이름, 경로이다. 자신의 취향대로 정하면 된다.
 ![image](https://github.com/user-attachments/assets/05ca6759-3fa1-4a17-967b-3ec797a3395c)
 19. 이렇게 나오면 끝!
+
+**코드를 가져오는 방법**
+![image](https://github.com/user-attachments/assets/c99e72be-a30f-48f6-97c3-41afd993184d)
+여기 기본 화면에서
+![image](https://github.com/user-attachments/assets/737ae020-9af6-4978-975d-f76d15fe1f96)
+사진과 같이 왼쪽 데각선 위에 있는 상자를 클릭한다.
+그 다음에 open...을 클릭하면
+![image](https://github.com/user-attachments/assets/c954cfaf-5ef8-4aed-b971-789c78e1189f)
+위에 사진과 같이 열릴것이다.
+그러면 자신이 가져오고 싶은 코드가 담긴 폴더를 선택하고 확인을 누르면
+![image](https://github.com/user-attachments/assets/cc08437d-7a0d-45cd-a7ca-8f5158e18c5e)
+사진과 같이 열린다!
+(맥과 윈도우는 거의 일치해서 상관이 없다)
 ## 시작하기
 1. 터미널에
 ![image](https://github.com/user-attachments/assets/0e6faac6-fa30-4f33-8ecc-8f5778811d7a)
