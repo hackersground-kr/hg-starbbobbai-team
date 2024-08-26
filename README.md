@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/28379dca-c09b-43ab-89cf-175be8050071)# 별뽀빠이 - 농담터
+# 별뽀빠이 - 농담터
 
 해커그라운드 해커톤에 참여하는 '별뽀빠이' 팀의 `농담터`입니다.
 
