@@ -72,15 +72,17 @@ https://www.jetbrains.com/ko-kr/idea/
 ![image](https://github.com/user-attachments/assets/dd75db42-fa31-427e-b21f-0adc8b51c1a1)
 14. 로그인 하라고 나올것이다. 계정이 없으면 회원가입을 한다.
 ![image](https://github.com/user-attachments/assets/bad5a453-6557-470a-9503-ab7ea1c914c5)
-15. create new project를 누른다.
+15.https://github.com/hackersground-kr/hg-starbbobbai-team 이 링크를 클릭하여 들어간다.
+16. ![image](https://github.com/user-attachments/assets/7b9fae75-8948-45d6-8499-71c77b4ec503) code 라고 적힌 초록색 버튼을 클릭하고 download zip 이라고 적힌 것을 클릭한다.
+17. create new project를 누른다.
 ![image](https://github.com/user-attachments/assets/f7737565-8952-4807-8190-270542041646)
-16. 왼쪽 상단에 Java를 선택하고 Next를 클릭해주자
+17. 왼쪽 상단에 Java를 선택하고 Next를 클릭해주자
 ![image](https://github.com/user-attachments/assets/0e1bdfce-a5fe-40bd-a937-242cb4f68074)
-17. next 클릭
+18. next 클릭
 ![image](https://github.com/user-attachments/assets/1145b978-5192-45be-a58b-5dfaa3bc1001)
-18. 위에서 부터 이름, 경로이다. 자신의 취향대로 정하면 된다.
+19. 위에서 부터 이름, 경로이다. 자신의 취향대로 정하면 된다.
 ![image](https://github.com/user-attachments/assets/05ca6759-3fa1-4a17-967b-3ec797a3395c)
-19. 이렇게 나오면 끝!
+20. 이렇게 나오면 끝!
 
 ### 도커(Docker) 설치하기
 도커란? 애플리케이션을 개발, 배포 및 실행하기 위한 플랫폼 및 도구 모음입니다. 주요 목적은 소프트웨어를 컨테이너라고 불리는 표준화된 유닛 내에서 패키징하여, 코드가 일관된 환경에서 실행될 수 있도록 하는 것입니다.
@@ -180,5 +182,6 @@ https://docs.docker.com/desktop/install/windows-install/
 
 4.배포 환경 초기화 방법을 물어보면 Use code in the current directory를 선택하여 엔터를 칩니다. Azure Container Apps를 사용해 배포한다고 물어보면 Confirm and continue initializing my app 옵션을 선택하여 엔터를 칩니다. 그러면 .azure 디렉토리와 next-step.md, azure.yaml 파일이 생성된다.
 
-터미널에 azd up을 입력하여 엔터를 칩니다. 어떤 Azure 구독을 사용할 것인지 물어봅니다. 사용할 구독을 선택합니다. 어느 지역에 배포할 것인지 물어봅니다. 아무 지역이나 선택해도 되지만, 여기서는 Korea Central을 선택하여 엔터를 칩니다. 터미널에 글자들이 나오고 오랜시간 동안 기다리면 ![image] (https://github.com/hackersground-kr/aspire-app-dev-in-a-day-ko/blob/main/docs/images/04-azure-deployment-02) 다음과 같은 화면이 나와요.
+터미널에 azd up을 입력하여 엔터를 칩니다. 어떤 Azure 구독을 사용할 것인지 물어봅니다. 사용할 구독을 선택합니다. 어느 지역에 배포할 것인지 물어봅니다. 아무 지역이나 선택해도 되지만, 여기서는 Korea Central을 선택하여 엔터를 칩니다. 터미널에 글자들이 나오고 오랜시간 동안 기다리면![image](https://github.com/user-attachments/assets/3ae48bad-e609-4065-98ff-0ca208734fc1)
+다음과 같은 화면이 나와요.
 > **여러분의 제품/서비스를 Microsoft 애저 클라우드에 배포하기 위한 절차를 구체적으로 나열해 주세요.**
