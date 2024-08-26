@@ -26,16 +26,15 @@
 > **아래 제공하는 설치 방법을 통해 심사위원단이 여러분의 제품/서비스를 실제 Microsoft 애저 클라우드에 배포하고 설치할 수 있어야 합니다. 만약 아래 설치 방법대로 따라해서 배포 및 설치가 되지 않을 경우 본선에 진출할 수 없습니다.**
 
 ### 사전 준비 사항
+### 인텔리제이(intellj) 설치하는 방법
 
-> **여러분의 제품/서비스를 Microsoft 애저 클라우드에 배포하기 위해 사전에 필요한 준비 사항들을 적어주세요.**
->
 https://www.jetbrains.com/ko-kr/idea/
 1. 위 링크로 들어가서 오른쪽 위에 있는 다운로드 버튼을 클릭한다.
 2. 클릭을 하게 되면 위에는 Ultimate가 있고, 아래로 내려가면 Community Edition가 있다.
 3. 그 중에서 아래에 있는 Community Edition를 할거이다.
 4. 다운로드를 하기 전에 다움로드 버튼 오른쪽에 있는 dmg가 보일 것이다. 클릭하게 되면 intel과 apple이 보일것이다.
 5. 만약 자신이 맥이라면 apple을 클리하여 다운로드 버튼을 누르고, 윈도우라면 intel를 눌러서 다운로드 버튼을 클릭한다.
-   - 맥의 경우(윈도우는 아래에 있는 '왼도우의 경우' 로 확인해주세요)
+   - 애플 사용자(윈도우는 아래에 있는 '왼도우 사용자' 로 확인해주세요)
 7. 아래의 이미지 처럼 빨간색 화살표가 가르키는 것을 클릭한다.
 ![image](https://github.com/user-attachments/assets/d5f633ff-5f67-4312-8a06-488fe10011c4)
 8. 클릭하게 되면 흰색 배경에 왼쪽과 오른쪽에 아이콘 같은게 뜰것이다.
@@ -57,7 +56,7 @@ https://www.jetbrains.com/ko-kr/idea/
 24. 그리고 한번더 오른쪽 아래 파란색 버튼을 클릭한다.
 25. 그러면 환경설정이 다 되었다.
 
-    - 윈도우
+    - 윈도우 사용자
 ![image](https://github.com/user-attachments/assets/8dac641c-7429-4be9-9dce-a95ad0213304)
 6. 다운로드를 클릭했다면 아래와 같이 InteliJ가 다운로드 되고 있을 것이다.
 7. 다운 받고 폴더 열기를 누른다.
@@ -83,18 +82,12 @@ https://www.jetbrains.com/ko-kr/idea/
 ![image](https://github.com/user-attachments/assets/05ca6759-3fa1-4a17-967b-3ec797a3395c)
 19. 이렇게 나오면 끝!
 
-**코드를 가져오는 방법**
-![image](https://github.com/user-attachments/assets/c99e72be-a30f-48f6-97c3-41afd993184d)
-여기 기본 화면에서
-![image](https://github.com/user-attachments/assets/737ae020-9af6-4978-975d-f76d15fe1f96)
-사진과 같이 왼쪽 데각선 위에 있는 상자를 클릭한다.
-그 다음에 open...을 클릭하면
-![image](https://github.com/user-attachments/assets/c954cfaf-5ef8-4aed-b971-789c78e1189f)
-위에 사진과 같이 열릴것이다.
-그러면 자신이 가져오고 싶은 코드가 담긴 폴더를 선택하고 확인을 누르면
-![image](https://github.com/user-attachments/assets/cc08437d-7a0d-45cd-a7ca-8f5158e18c5e)
-사진과 같이 열린다!
-(맥과 윈도우는 거의 일치해서 상관이 없다)
+### 도커(Docker) 설치하기
+
+- 애플 사용자 (윈도우 사용자는 아래에 자료를 참고해주세요)
+  1. 공식 사이트에서 다운로드를 합니다.
+     ```M1 기준 프로세스 기기로 설치하기에 ‘Docker Desktop for Mac with Apple slicon’으로 설치를 해줍니다.```
+
 ## 시작하기
 1. 터미널에
 ![image](https://github.com/user-attachments/assets/0e6faac6-fa30-4f33-8ecc-8f5778811d7a)
