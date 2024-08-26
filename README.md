@@ -35,9 +35,10 @@ https://www.jetbrains.com/ko-kr/idea/
 3. 그 중에서 아래에 있는 Community Edition를 할거이다.
 4. 다운로드를 하기 전에 다움로드 버튼 오른쪽에 있는 dmg가 보일 것이다. 클릭하게 되면 intel과 apple이 보일것이다.
 5. 만약 자신이 맥이라면 apple을 클리하여 다운로드 버튼을 누르고, 윈도우라면 intel를 눌러서 다운로드 버튼을 클릭한다.
-6. 
+6. 아래의 이미지 처럼 빨간색 화살표가 가르키는 것을 클릭한다.
 
 
+![image](https://github.com/user-attachments/assets/d5f633ff-5f67-4312-8a06-488fe10011c4)
 
 ## 시작하기
 
