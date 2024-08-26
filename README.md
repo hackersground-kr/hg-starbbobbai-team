@@ -58,6 +58,8 @@ https://www.jetbrains.com/ko-kr/idea/
 
 ## 시작하기
 1. 터미널에
+![image](https://github.com/user-attachments/assets/0e6faac6-fa30-4f33-8ecc-8f5778811d7a)
+(위 사진에 가르키는 게 터미널)
 azd auth login --use-device-code=false <- 이거 한줄 치고 엔터를 눌러 로그인, 선택사항이 나올 경우 계속 엔터
 az login <- 이거 한줄 치고 엔터를 눌러 로그인, 선택사항이 나올 경우 계속 엔터
 GITHUB_TOKEN= <- 밑에 줄과 함께 치고 엔터를 눌러 로그인 선택사항이 나올 경우 계속 엔터
