@@ -83,14 +83,40 @@ https://www.jetbrains.com/ko-kr/idea/
 19. 이렇게 나오면 끝!
 
 ### 도커(Docker) 설치하기
+도커란? 애플리케이션을 개발, 배포 및 실행하기 위한 플랫폼 및 도구 모음입니다. 주요 목적은 소프트웨어를 컨테이너라고 불리는 표준화된 유닛 내에서 패키징하여, 코드가 일관된 환경에서 실행될 수 있도록 하는 것입니다.
 
-애플 사용자 (윈도우 사용자는 아래에 자료를 참고해주세요)
+### 애플 사용자 (윈도우 사용자는 아래에 자료를 참고해주세요)
 1. 공식 사이트에서 다운로드를 합니다. 
 
 ```M1 기준 프로세스 기기로 설치하기에 ‘Docker Desktop for Mac with Apple slicon’으로 설치를 해줍니다.```
 ![image](https://github.com/user-attachments/assets/4948f8b7-b43e-4af8-b714-2cc53e57bff9)
 https://docs.docker.com/desktop/install/mac-install/
-2. 
+
+2. 다운로드한 파일을 클릭합니다.
+![image](https://github.com/user-attachments/assets/c0cf11c0-fa51-4f6e-a626-379e3d4c2abc)
+
+3. 왼쪽 아이콘을 오른쪽으로 드레그하라고 나옵니다.
+4. 왼쪽 아이콘에 마우스를 갖다 대고 꾹 눌러서 오른쪽 아이콘까지 끌고 갑니다.
+5. application이라는 파일에 도커가 들어갑니다!
+![image](https://github.com/user-attachments/assets/65d036cf-6440-42b9-98c4-037a4b454f31)
+
+6. 도커라는 아이콘을 클릭합니다.
+7. 클릭 했을 때 어떤 창이 나올겁니다. 맨 위에 있는 열기를 클릭합니다.
+![image](https://github.com/user-attachments/assets/6174e14c-ed7b-4d00-af73-e32931c77e7b)
+
+8. 위 사진 처럼 나오게 됩니다. 오른쪽 아래에 있는 Accecpt 버튼을 클릭합니다.
+
+![image](https://github.com/user-attachments/assets/1a194fd5-73df-42a5-a13b-901f3d03d9d2)
+
+9. 위 사진 처럼 선택해주고 오른쪽 아래에 있는 finish 버튼을 선택합니다.
+![image](https://github.com/user-attachments/assets/b5c420ee-fa72-43df-a964-1731ca89f346)
+
+10. 도커 기능을 이용하기 위해서 회의가입을 진행합니다. + 간단한 설문도 있습니다.(자유롭게 하시면 됩니다.)
+
+11. 여기까지 잘 따라오면 아래 사진과 화면이 똑같이 나올겁니다.
+![image](https://github.com/user-attachments/assets/c04819dd-192c-4745-9103-fda4cc068536)
+
+### 윈도우 사용자 전용
 
 ## 시작하기
 1. 터미널에
