@@ -84,10 +84,13 @@ https://www.jetbrains.com/ko-kr/idea/
 
 ### 도커(Docker) 설치하기
 
-- 애플 사용자 (윈도우 사용자는 아래에 자료를 참고해주세요)
-  1. 공식 사이트에서 다운로드를 합니다. 
+애플 사용자 (윈도우 사용자는 아래에 자료를 참고해주세요)
+1. 공식 사이트에서 다운로드를 합니다. 
 
-     ```M1 기준 프로세스 기기로 설치하기에 ‘Docker Desktop for Mac with Apple slicon’으로 설치를 해줍니다.```
+```M1 기준 프로세스 기기로 설치하기에 ‘Docker Desktop for Mac with Apple slicon’으로 설치를 해줍니다.```
+![image](https://github.com/user-attachments/assets/4948f8b7-b43e-4af8-b714-2cc53e57bff9)
+https://docs.docker.com/desktop/install/mac-install/
+2. 
 
 ## 시작하기
 1. 터미널에
