@@ -1,4 +1,4 @@
-# 별뽀빠이 - 농담터
+![image](https://github.com/user-attachments/assets/28379dca-c09b-43ab-89cf-175be8050071)# 별뽀빠이 - 농담터
 
 해커그라운드 해커톤에 참여하는 '별뽀빠이' 팀의 `농담터`입니다.
 
@@ -152,6 +152,7 @@ https://docs.docker.com/desktop/install/windows-install/
 
 13. 실행을 합니다.
 ![image](https://github.com/user-attachments/assets/224856c5-7934-4b0d-8fc1-22d92a2080a8)
+
 안내에 따라 모두 체크하고 오른쪽 아래에 있는 OK버튼을 클학합니다.
 
 14.사진과 같이 설치가 완료 되었다면 close and logout 파란색 버튼을 클릭합니다. 그러면 재부팅이 됩니다.
@@ -168,6 +169,38 @@ https://docs.docker.com/desktop/install/windows-install/
 20. 이상으로 도커를 설치하고 환경 설정을 했습니다!
     
 ## 시작하기
+Chap 0 
+
+1. 아래 링크를 클릭하고 자신의 깃허브 아이디로 Azure OpenAI 프록시 구독을 신청합니다.
+https://aka.ms/aspireinadaykr/request
+
+2. 로그인 후 화면에서 API키와 Endpoint 값을 확인합니다. (꼭 기억하거나 메모할 것)
+   
+3. 아래 링크를 클릭하여 접속합니다.
+https://github.com/hackersground-kr/aspire-app-dev-in-a-day-ko
+
+4. 우측 상단에 fork 버튼을 클릭한다.
+![image](https://github.com/user-attachments/assets/aca6e246-2027-4fc6-b67c-d33e5302bf3e)
+
+5. 그리고 바로 아래에 create a new fork를 선택합니다.
+
+6. 클릭할 경우 아래 사진과 같이 owner와 repository 이름을 정하는 페이지로 갑니다.
+![image](https://github.com/user-attachments/assets/09f44a9f-7009-4efa-aebe-450ad42c2cc1)
+
+
+7. owner을 클릭한 후 자신의 계정을 선택하고 저장소 이름과 설명을 작성합니다.(저장소 이름과 설명은 자유롭게 하시면 됩니다,)
+8. 모두 작성 한 후에 create fork를 합니다.
+
+
+
+
+
+
+
+
+
+
+
 1. 터미널에
 ![image](https://github.com/user-attachments/assets/0e6faac6-fa30-4f33-8ecc-8f5778811d7a)
 (위 사진에 가르키는 게 터미널)
