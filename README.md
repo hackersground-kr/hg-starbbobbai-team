@@ -57,5 +57,31 @@ https://www.jetbrains.com/ko-kr/idea/
 24. 그러면 환경설정이 다 되었다.
 
 ## 시작하기
+1. 터미널에
+azd auth login --use-device-code=false <- 이거 한줄 치고 엔터를 눌러 로그인, 선택사항이 나올 경우 계속 엔터
+az login <- 이거 한줄 치고 엔터를 눌러 로그인, 선택사항이 나올 경우 계속 엔터
+GITHUB_TOKEN= <- 밑에 줄과 함께 치고 엔터를 눌러 로그인 선택사항이 나올 경우 계속 엔터
+gh auth login
+
+2.터미널에
+azd auth login --check-status <- 이거 한줄 치고 엔터 눌러 로그인 확인
+az account show <- 이거 한줄치고 엔터 눌러 로그인 확인
+gh auth status <- 이거 한줄치고 엔터 눌러 로그인 확인
+
+3.터미널에
+AZURE_ENV_NAME="{{ GITHUB_ID }}"
+azd init -e $AZURE_ENV_NAME
+두줄을 함께 친다. 중요한 것은 {{ GITHUB_ID }}는 자신의 GitHub 아이디로 변경하여 예를 들어 GitHub 아이디가 Azure-Samples라면 {{ GITHUB_ID }}를 Azure-Samples로 변경해야한다.
+
+4.배포 환경 초기화 방법을 물어보면 Use code in the current directory를 선택하여 엔터를 칩니다.
+Azure Container Apps를 사용해 배포한다고 물어보면 Confirm and continue initializing my app 옵션을 선택하여 엔터를 칩니다.
+그러면 .azure 디렉토리와 next-step.md, azure.yaml 파일이 생성된다.
+
+5. 터미널에 azd up을 입력하여 엔터를 칩니다.
+어떤 Azure 구독을 사용할 것인지 물어봅니다. 사용할 구독을 선택합니다.
+어느 지역에 배포할 것인지 물어봅니다. 아무 지역이나 선택해도 되지만, 여기서는 Korea Central을 선택하여 엔터를 칩니다.
+터미널에 글자들이 나오고 오랜시간 동안 기다리면 
+![image] (https://github.com/hackersground-kr/aspire-app-dev-in-a-day-ko/blob/main/docs/images/04-azure-deployment-02.png) 다음과 같은 화면이 나와요.
+
 
 > **여러분의 제품/서비스를 Microsoft 애저 클라우드에 배포하기 위한 절차를 구체적으로 나열해 주세요.**
