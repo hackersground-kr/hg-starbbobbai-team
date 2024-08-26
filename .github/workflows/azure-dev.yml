@@ -55,10 +55,13 @@ jobs:
         env:
           AZURE_CREDENTIALS: ${{ secrets.AZURE_CREDENTIALS }}
 
-      - name: Provision Infrastructure
-        run: azd provision --no-prompt
-        env:
-          AZD_INITIAL_ENVIRONMENT_CONFIG: ${{ secrets.AZD_INITIAL_ENVIRONMENT_CONFIG }}
+    # 변경후
+    - name: Provision Infrastructure
+      run: |
+        azd provision --no-prompt
+        popd
 
-      - name: Deploy Application
-        run: azd deploy --no-prompt
+    - name: Deploy Application
+      run: |
+        azd deploy --no-prompt
+        popd
