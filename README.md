@@ -104,10 +104,10 @@ https://docs.docker.com/desktop/install/mac-install/
 
 6. 도커라는 아이콘을 클릭합니다.
 7. 클릭 했을 때 어떤 창이 나올겁니다. 맨 위에 있는 열기를 클릭합니다.
-8. 위 사진 처럼 나오게 됩니다. 오른쪽 아래에 있는 Accecpt 버튼을 클릭합니다.
+8. 아래 사진 처럼 나오게 됩니다. 오른쪽 아래에 있는 Accecpt 버튼을 클릭합니다.
 ![image](https://github.com/user-attachments/assets/6174e14c-ed7b-4d00-af73-e32931c77e7b)
 
-9. 위 사진 처럼 선택해주고 오른쪽 아래에 있는 finish 버튼을 선택합니다.
+9. 아래 사진 처럼 선택해주고 오른쪽 아래에 있는 finish 버튼을 선택합니다.
 ![image](https://github.com/user-attachments/assets/1a194fd5-73df-42a5-a13b-901f3d03d9d2)
 
 10. 도커 기능을 이용하기 위해서 회의가입을 진행합니다. + 간단한 설문도 있습니다.(자유롭게 하시면 됩니다.)
