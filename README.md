@@ -60,42 +60,42 @@ https://www.jetbrains.com/ko-kr/idea/
     - 윈도우 사용자
 ![image](https://github.com/user-attachments/assets/8dac641c-7429-4be9-9dce-a95ad0213304)
 
-6. 다운로드를 클릭했다면 아래와 같이 InteliJ가 다운로드 되고 있을 것이다.
-7. 다운 받고 폴더 열기를 누른다.
+1. 다운로드를 클릭했다면 아래와 같이 InteliJ가 다운로드 되고 있을 것이다.
+2. 다운 받고 폴더 열기를 누른다.
 ![image](https://github.com/user-attachments/assets/946b344a-7714-47bb-b2c3-954a7c4f61df)
 
-8. 오른쪽 아래에 next를 누른다.
-9. 계속해서 오른쪽 아래에 있는 next를 누른다.
-10. 계속 누르다보면 다운을 받게 될것이다.
+3. 오른쪽 아래에 next를 누른다.
+4. 계속해서 오른쪽 아래에 있는 next를 누른다.
+5. 계속 누르다보면 다운을 받게 될것이다.
 ![image](https://github.com/user-attachments/assets/7b9c92ee-83e6-47eb-b3e3-59d20509190d)
 
-11. 설치가 끝났다면 Reboot now를 체크하고 컴퓨터를 한번 재부팅 해주자
-12. 바탕화면에 설치된 intellij를 두번 클릭한다.
+6. 설치가 끝났다면 Reboot now를 체크하고 컴퓨터를 한번 재부팅 해주자
+7. 바탕화면에 설치된 intellij를 두번 클릭한다.
 ![image](https://github.com/user-attachments/assets/a3f47fb1-f494-41cb-b5cb-a7d024ba914d)
 
-13. 이러한 화면이 나오지만 I confirm that I have read and accept the terms of this User Agreement를 체크하고 continue를 클릭한다.
+8. 이러한 화면이 나오지만 I confirm that I have read and accept the terms of this User Agreement를 체크하고 continue를 클릭한다.
 ![image](https://github.com/user-attachments/assets/dd75db42-fa31-427e-b21f-0adc8b51c1a1)
 
-14. 로그인 하라고 나올것이다. 계정이 없으면 회원가입을 한다.
+9. 로그인 하라고 나올것이다. 계정이 없으면 회원가입을 한다.
 ![image](https://github.com/user-attachments/assets/bad5a453-6557-470a-9503-ab7ea1c914c5)
 
-15.https://github.com/hackersground-kr/hg-starbbobbai-team 이 링크를 클릭하여 들어간다. 
+10.https://github.com/hackersground-kr/hg-starbbobbai-team 이 링크를 클릭하여 들어간다. 
 ![image](https://github.com/user-attachments/assets/41bd5dc5-0d77-4679-b919-83a920af6eb1) 이렇게 생긴 모양의 버튼을 눌러 server를 선택한다.
 
-16. ![image](https://github.com/user-attachments/assets/7b9fae75-8948-45d6-8499-71c77b4ec503) code 라고 적힌 초록색 버튼을 클릭하고 download zip 이라고 적힌 것을 클릭한다.
-17. create new project를 누른다.
+11. ![image](https://github.com/user-attachments/assets/7b9fae75-8948-45d6-8499-71c77b4ec503) code 라고 적힌 초록색 버튼을 클릭하고 download zip 이라고 적힌 것을 클릭한다.
+12. create new project를 누른다.
 ![image](https://github.com/user-attachments/assets/f7737565-8952-4807-8190-270542041646)
 
-18. 왼쪽 상단에 Java를 선택하고 Next를 클릭해주자
+13. 왼쪽 상단에 Java를 선택하고 Next를 클릭해주자
 ![image](https://github.com/user-attachments/assets/0e1bdfce-a5fe-40bd-a937-242cb4f68074)
 
-19. next 클릭
+14. next 클릭
 ![image](https://github.com/user-attachments/assets/1145b978-5192-45be-a58b-5dfaa3bc1001)
 
-20. 위에서 부터 이름, 경로이다. 자신의 취향대로 정하면 된다.
+15. 위에서 부터 이름, 경로이다. 자신의 취향대로 정하면 된다.
 ![image](https://github.com/user-attachments/assets/05ca6759-3fa1-4a17-967b-3ec797a3395c)
 
-21. 이렇게 나오면 끝!
+16. 이렇게 나오면 끝!
     
 ## 시작하기
 1. 터미널에
