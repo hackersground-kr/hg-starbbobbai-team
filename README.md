@@ -132,6 +132,7 @@ https://docs.docker.com/desktop/install/mac-install/
 - 윈도우 사용자 전용
 1. 나의 컴퓨터 사양 알아보기
 ![image](https://github.com/user-attachments/assets/23b95f04-46d3-4222-8c7f-3ff3530fe170)
+
 사진과 같이 하단에 돋보기를 눌러서 검색을 합니다.
 
 2. 자신의 컴퓨터가 어떤지 아래 사진과 같이 알 수 있습니다.
@@ -159,19 +160,16 @@ https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
 9. 다시 돋보기를 통해서 작업 관리자를 엽니다.
 10. wsl -l -v 를 적은 후 사진과 동일하게 나오는지 확인합니다,
-
 11. 하단 링크를 클릭합니다.
 https://docs.docker.com/desktop/install/windows-install/
 
 12. 화면에 파란색 버튼 Docker Desktop for Windows를 클릭하여 다운로드를 합니다.
-
 13. 실행을 합니다.
 ![image](https://github.com/user-attachments/assets/224856c5-7934-4b0d-8fc1-22d92a2080a8)
 
 안내에 따라 모두 체크하고 오른쪽 아래에 있는 OK버튼을 클학합니다.
 
 14.사진과 같이 설치가 완료 되었다면 close and logout 파란색 버튼을 클릭합니다. 그러면 재부팅이 됩니다.
-
 15. 재부팅 후 도커 아이콘을 눌러서 실행합니다.
 16. 도커를 실행되면 가이드가 나타납니다.
 ![image](https://github.com/user-attachments/assets/5e8c95d0-4e1c-4ddb-ba09-e99a35c6e5d5)
