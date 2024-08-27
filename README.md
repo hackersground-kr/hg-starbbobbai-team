@@ -82,19 +82,14 @@ https://www.jetbrains.com/ko-kr/idea/
 ![image](https://github.com/user-attachments/assets/41bd5dc5-0d77-4679-b919-83a920af6eb1) 이렇게 생긴 모양의 버튼을 눌러 server를 선택한다.
 
 11. ![image](https://github.com/user-attachments/assets/7b9fae75-8948-45d6-8499-71c77b4ec503) code 라고 적힌 초록색 버튼을 클릭하고 download zip 이라고 적힌 것을 클릭한다.
-12. create new project를 누른다.
-![image](https://github.com/user-attachments/assets/f7737565-8952-4807-8190-270542041646)
-
-13. 왼쪽 상단에 Java를 선택하고 Next를 클릭해주자
+    
+12. 왼쪽 상단에 Java를 선택하고 Next를 클릭해주자
 ![image](https://github.com/user-attachments/assets/0e1bdfce-a5fe-40bd-a937-242cb4f68074)
 
-14. next 클릭
+13. next 클릭
 ![image](https://github.com/user-attachments/assets/1145b978-5192-45be-a58b-5dfaa3bc1001)
 
-15. 위에서 부터 이름, 경로이다. 자신의 취향대로 정하면 된다.
-![image](https://github.com/user-attachments/assets/05ca6759-3fa1-4a17-967b-3ec797a3395c)
-
-16. 이렇게 나오면 끝!
+14. 이렇게 나오면 끝!
     
 ## 시작하기
 1. 터미널에
