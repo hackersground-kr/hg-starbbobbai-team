@@ -77,7 +77,6 @@ https://www.jetbrains.com/ko-kr/idea/
 ![image](https://github.com/user-attachments/assets/dd75db42-fa31-427e-b21f-0adc8b51c1a1)
 
 9. 로그인 하라고 나올것이다. 계정이 없으면 회원가입을 한다.
-![image](https://github.com/user-attachments/assets/bad5a453-6557-470a-9503-ab7ea1c914c5)
 
 10.https://github.com/hackersground-kr/hg-starbbobbai-team 이 링크를 클릭하여 들어간다. 
 ![image](https://github.com/user-attachments/assets/41bd5dc5-0d77-4679-b919-83a920af6eb1) 이렇게 생긴 모양의 버튼을 눌러 server를 선택한다.
