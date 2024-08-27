@@ -87,7 +87,7 @@ https://www.jetbrains.com/ko-kr/idea/
 ### 도커(Docker) 설치하기
 도커란? 애플리케이션을 개발, 배포 및 실행하기 위한 플랫폼 및 도구 모음입니다. 주요 목적은 소프트웨어를 컨테이너라고 불리는 표준화된 유닛 내에서 패키징하여, 코드가 일관된 환경에서 실행될 수 있도록 하는 것입니다.
 
-### 애플 사용자 (윈도우 사용자는 아래에 자료를 참고해주세요)
+- 애플 사용자 (윈도우 사용자는 아래에 자료를 참고해주세요)
 1. 공식 사이트에서 다운로드를 합니다. 
 
 ```M1 기준 프로세스 기기로 설치하기에 ‘Docker Desktop for Mac with Apple slicon’으로 설치를 해줍니다.```
@@ -116,7 +116,7 @@ https://docs.docker.com/desktop/install/mac-install/
 11. 여기까지 잘 따라오면 아래 사진과 화면이 똑같이 나올겁니다.
 ![image](https://github.com/user-attachments/assets/c04819dd-192c-4745-9103-fda4cc068536)
 
-### 윈도우 사용자 전용
+- 윈도우 사용자 전용
 1. 나의 컴퓨터 사양 알아보기
 ![image](https://github.com/user-attachments/assets/23b95f04-46d3-4222-8c7f-3ff3530fe170)
 사진과 같이 하단에 돋보기를 눌러서 검색을 합니다.
